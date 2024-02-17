@@ -1,0 +1,5 @@
+GitHub befehle
+
+git add. //Wählt alle Dateien aus dem ordener aus und fügt sie hinzu
+git commit -m "Message" //Damit commited man und fügt eine Nachricht hinzu
+git push origin master //Wohin Gepusht werden soll
